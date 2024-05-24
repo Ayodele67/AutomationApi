@@ -1,9 +1,10 @@
 namespace mynewapi.Controllers
 {
-    public class Fruit
+    public class Auth
     {
          public int Id { get; set; }
-        public string fruit_ { get; set; }
+        public string auth
+            _ { get; set; }
        
     }
 }
